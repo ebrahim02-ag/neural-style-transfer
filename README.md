@@ -1,4 +1,4 @@
-Neural style transfer using pytorch. 
+# Neural style transfer using pytorch. 
 
 - Add your images to the "images" folder. 
 - Run the cells in main.ipynb to make your own style transfers. 
